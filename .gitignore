@@ -1,0 +1,10 @@
+# .gitignore for .NET projects
+
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.pdb
+obj/
+bin/
