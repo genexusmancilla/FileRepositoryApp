@@ -8,3 +8,5 @@
 *.pdb
 obj/
 bin/
+# Ignorar el archivo launchSettings.json
+Properties/launchSettings.json
